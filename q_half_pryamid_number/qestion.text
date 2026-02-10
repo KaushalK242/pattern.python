@@ -1,0 +1,23 @@
+ problem Statement:
+Write a code to generate a half pyramid pattern using numbers.
+
+Input Description:
+Given an integer R indicates number of rows.Where 1<=R<=100
+
+Output Description:
+Print the number half pyramid pattern with the size R.
+
+Explanation:
+From the given input R=5, print from 1 in first line and increased by 1 number, print from 22 in second line repeat this process until reach R print R in R times.
+
+Sample Input:
+5
+
+Sample Output:
+ Sample Output:
+
+1
+22
+333
+4444
+55555
